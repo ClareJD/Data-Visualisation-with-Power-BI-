@@ -2,7 +2,9 @@
 
 Aim: To analyze the performance of Hollywood movies 
 
-Data: Title, genre, studio, profitability and ratings for movies released 2007-2012. [Source](https://www.informationIsBeautiful.net/data) 
+Data: Title, genre, studio, profitability and ratings for movies released 2007-2012. 
+
+[Source](https://www.informationIsBeautiful.net/data) 
 
 [Download link](https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv)
 
