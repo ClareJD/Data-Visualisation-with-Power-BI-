@@ -15,7 +15,7 @@ Using a dataset that I previously cleaned using RStudio, I created a dashboard a
   4. Porfitability per studio.
   5. The World Wide Gross per Genre
 
-I also created an additional dashboard that looked at the top performers accross the data. 
+I also created an additional dashboard that looked at the top performers across the data. 
 
 Link to Power Bi Dashboard: https://app.powerbi.com/groups/me/reports/723e5375-385f-4642-81f4-8e5b95db35e6/ReportSection
 
