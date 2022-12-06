@@ -4,8 +4,7 @@ Aim: To analyze the performance of Hollywood movies 
 
 Data: Title, genre, studio, profitability and ratings for movies released 2007-2012. [Source](https://www.informationIsBeautiful.net/data) 
 
-Download link: 
-https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv
+[Download link](https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv)
 
 Using a dataset that I previously cleaned using RStudio, I created a dashboard as per the using the below parameters: 
 
